@@ -11,8 +11,10 @@ structure, presentation and behavior).
 
 
 Open Terminal 1
->>cd server
->>npm run dev
+>> cd server
+>> npm run dev
+
+
 Open Terminal 2
->>cd client
->>npm start
+>> cd client
+>> npm start
