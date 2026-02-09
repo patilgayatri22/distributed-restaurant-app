@@ -1,0 +1,153 @@
+/* Import Bootstrap */
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css');
+
+/* Base Styling */
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #F5F5F5; /* Off-white text color */
+    text-align: center;
+    background: url('../images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #8B4513 !important; /* Use a dark brown color for navbar */
+}
+
+.navbar-brand, .nav-link {
+    color: #F5F5F5 !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #FFD700 !important; /* Bright gold hover effect */
+}
+
+
+/* Dropdown Menu */
+.dropdown-menu {
+    background-color: #A52A2A; /* Slightly lighter dark red */
+}
+
+.dropdown-item {
+    color: #F5F5F5 !important;
+}
+
+.dropdown-item:hover {
+    background-color: #FFB84D !important; /* Light gold hover for items */
+}
+
+/* Category Containers */
+.category-section {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.category-section h2 {
+    color: #FFD700; /* Gold for category headers */
+}
+
+/* Pagination */
+.pagination {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-item .page-link {
+    color: #8B4513;
+    background-color: #F5F5F5;
+    border: 1px solid #8B4513;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #8B4513;
+    color: #F5F5F5;
+}
+
+/* Image Resizing */
+.food-images {
+    height: 200px;
+    object-fit: cover;
+    max-width: 100%;
+}
+.content-list{
+    background-color: #FFD700;
+    font-size: x-large;
+    color: aliceblue;
+}
+
+#pagination {
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.page-btn {
+    padding: 5px 10px;
+    border: 1px solid #000;
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+.page-btn.active {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Footer */
+footer {
+    background: sandybrown; /* Dark background for footer */
+    color: #F5F5F5; /* Off-white text for better readability */
+    padding: 15px;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 -4px 8px sandybrown;
+}
+
+/* Button Hover Effects */
+.btn-warning:hover {
+    background-color: #FF9F00; /* Slightly darker gold for hover effect */
+}
+
+
+.modal-content {
+    background-color: #343a40; /* Dark background for the modal */
+    color: white; /* White text color */
+}
+
+.modal-header {
+    border-bottom: 1px solid #444; /* Dark border for the header */
+}
+
+.modal-footer {
+    border-top: 1px solid #444; /* Dark border for the footer */
+}
+
+#pageHits {
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+/* Focused state */
+#pageHits:focus {
+    transform: scale(1.5);
+    background-color: #ff5722; /* Change color */
+    color: white;
+}
+
+.container {
+    flex: 1;
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "category": "meat",
+    "subcategory": "beef",
+    "name": "Ground Beef and Rice Skillet",
+    "spicy": true,
+    "price": 17.5,
+    "description": "Mexican-inspired one-pot dish with a casserole feel with flavorful ground beef and rice skillet",
+    "image": "beefskillet.jpg"
+  },
+  {
+    "id": 2,
+    "category": "meat",
+    "subcategory": "pork",
+    "name": "Apple Cider Pork Tenderloin with Sweet Potatoes",
+    "spicy": false,
+    "price": 24.8,
+    "description": "Apple cider pork tenderloin with sweet potatoes roasts nestled in a bed of apples, onions, and white sweet potatoes while a delicious pan reduction of apple cider, vinegar, and mustard",
+    "image": "pork.jpg"
+  },
+  {
+    "id": 3,
+    "category": "meat",
+    "subcategory": "lamb",
+    "name": "Baby Lamb Chop Kabargarh",
+    "spicy": true,
+    "price": 27.5,
+    "description": "Kashmiri style baby lamb chops flavored with saffron and fennel",
+    "image": "babylamb.jpg"
+  },
+  {
+    "id": 4,
+    "category": "meat",
+    "subcategory": "poultry",
+    "name": "Chicken with Salli",
+    "spicy": true,
+    "price": 18.5,
+    "description": "Mild and creamy morsels of chicken with a rich flavor that lingers. Topped with silver leaves and potato salli",
+    "image": "salli.jpg"
+  },
+  {
+    "id": 5,
+    "category": "meat",
+    "subcategory": "poultry",
+    "name": "Bang Bang Chicken Bites",
+    "spicy": false,
+    "price": 23.5,
+    "description": "Spicy, crispy little chicken nuggets, air fried or baked, then tossed in a quick chili sauce",
+    "image": "chickenbites.jpg"
+  },
+  {
+    "id": 6,
+    "category": "meat",
+    "subcategory": "poultry",
+    "name": "Skillet Garlic Knot Chicken",
+    "spicy": true,
+    "price": 23.5,
+    "description": "Garlicky butter that gets brushed on top of the garlic knots of Chicken",
+    "image": "knots.jpg"
+  },
+  {
+    "id": 7,
+    "category": "seafood",
+    "subcategory": "fish",
+    "name": "Seared Tuna with Soy and Red Chiles",
+    "spicy": true,
+    "price": 22.4,
+    "description": "Ingredients: Tuna, Soy Sauce, Chicken Stock, Sesame oil, Garlic, Dried Chiles",
+    "image": "tuna.jpg"
+  },
+  {
+    "id": 8,
+    "category": "seafood",
+    "subcategory": "fish",
+    "name": "Cold Poached Salmon",
+    "spicy": true,
+    "price": 29.4,
+    "description": "Ingredients: Salmon, Wine, Onion, Celery, Peppercorns, Parsley",
+    "image": "salmon.jpg"
+  },
+  {
+    "id": 9,
+    "category": "seafood",
+    "subcategory": "crab",
+    "name": "Crispy Crab Cakes with Tomato Butter",
+    "spicy": true,
+    "price": 35.8,
+    "description": "Ingredients: Crab, Garlic, Butter, White Wine, Parsley",
+    "image": "crabcakes.jpg"
+  },
+  {
+    "id": 10,
+    "category": "seafood",
+    "subcategory": "shrimp",
+    "name": "Venetian shrimp with Polents",
+    "spicy": true,
+    "price": 30,
+    "description": "Ingredients: Shrimp, Olive oil, Garlic cloves, White wine, Cornmeal, Lemon zest, Bay leaf",
+    "image": "shrimp.jpg"
+  },
+  {
+    "id": 11,
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "name": "Maine-Style Lobster Rolls",
+    "spicy": false,
+    "price": 15.7,
+    "description": "Ingredients: Lobster, Lemon, Garlic, Sriracha Sauce, Spinach",
+    "image": "lobster.jpg"
+  },
+  {
+    "id": 12,
+    "category": "seafood",
+    "subcategory": "shellfish",
+    "name": "Clams in Garlic Sorrel Cream",
+    "spicy": true,
+    "price": 32.7,
+    "description": "Ingredients: Clams, Fresh basil, Lemon Juice, Sorrel, Shallots, White wine",
+    "image": "clams.jpg"
+  },
+  {
+    "id": 13,
+    "category": "vegetable",
+    "subcategory": "salad",
+    "name": "Garden Cobb Salad",
+    "spicy": false,
+    "price": 15.7,
+    "description": "Mixed greens, baby tomatoes, edamame, carrots, radish, egg, bleu cheese, corn, bacon, avocado, ranch",
+    "image": "cobbsalad.jpg"
+  },
+  {
+    "id": 14,
+    "category": "vegetable",
+    "subcategory": "salad",
+    "name": "Kale and Romaine Caesar Salad",
+    "spicy": false,
+    "price": 28.7,
+    "description": "Housemade Croutons, Our Caesar Dressing, Aged Parmesan pairs best with Lamelle, Chardonnay",
+    "image": "caesarsalad.jpg"
+  },
+  {
+    "id": 15,
+    "category": "vegetable",
+    "subcategory": "salad",
+    "name": "Italian Chopped Salad",
+    "spicy": false,
+    "price": 17.3,
+    "description": "Red Onion, Tomato, Kalamata Olives, Housemade Croutons, Fresh Mozzarella, Vinaigrette",
+    "image": "italiansalad.jpg"
+  },
+  {
+    "id": 16,
+    "category": "vegetable",
+    "subcategory": "salad",
+    "name": "Mozzarella alla Caprese",
+    "spicy": false,
+    "price": 14.6,
+    "description": "Italian salad prepared with sliced fresh mozzarella, tomatoes, and sweet basil",
+    "image": "capresesalad.jpg"
+  },
+  {
+    "id": 17,
+    "category": "vegetable",
+    "subcategory": "cooked",
+    "name": "Jackfruit and Avocado Taco",
+    "spicy": true,
+    "price": 18.2,
+    "description": "Soft shell millet tacos stuffed with a perfectly spiced jackfruit and avocado filling, pickled onion and tomato shreds",
+    "image": "jackfruittaco.jpg"
+  },
+  {
+    "id": 18,
+    "category": "vegetable",
+    "subcategory": "cooked",
+    "name": "Ancho Chilli Paneer Tikka",
+    "spicy": true,
+    "price": 20.4,
+    "description": "Tandoor cooked cottage cheese marinated in a blend of chilli & spices",
+    "image": "paneertikka.jpg"
+  },
+  {
+    "id": 19,
+    "category": "vegetable",
+    "subcategory": "cooked",
+    "name": "Blackened Cauliflower Steak",
+    "spicy": false,
+    "price": 25.7,
+    "description": "Thick slab of cauliflower that’s caramelized on the flattop, then seasoned with garlic powder, soy sauce and lemon juice",
+    "image": "caulisteak.jpg"
+  },
+  {
+    "id": 20,
+    "category": "vegetable",
+    "subcategory": "cooked",
+    "name": "Smoked Ricotta Galouti",
+    "spicy": false,
+    "price": 22.5,
+    "description": "Awadhi cuisine from North India swears by these 'melt-in-mouth vegetable kababs,' originally designed to satisfy the cravings of a governor with weak teeth",
+    "image": "ricotta.jpg"
+  },
+  {
+    "id": 21,
+    "category": "vegetable",
+    "subcategory": "cooked",
+    "name": "Grilled Veggie Cheesy Burger",
+    "spicy": true,
+    "price": 21.9,
+    "description": "A succulent grilled veggie patty topped with melted cheese, fresh vegetables, and savory sauces, all nestled in a soft bun served with fries",
+    "image": "veggieburger.jpg"
+  },
+  {
+    "id": 22,
+    "category": "bread-rice",
+    "subcategory": "bread",
+    "name": "Sour Dough",
+    "price": 13.4,
+    "description": "210 Cal",
+    "image": "sour.jpg"
+  },
+  {
+    "id": 23,
+    "category": "bread-rice",
+    "subcategory": "bread",
+    "name": "Croissant",
+    "price": 10.4,
+    "description": "200 Cal",
+    "image": "croissant.jpg"
+  },
+  {
+    "id": 24,
+    "category": "bread-rice",
+    "subcategory": "bread",
+    "name": "Breadsticks",
+    "price": 12.8,
+    "description": "170 Cal",
+    "image": "breadsticks.jpg"
+  },
+  {
+    "id": 25,
+    "category": "bread-rice",
+    "subcategory": "bread",
+    "name": "Pita Bread",
+    "price": 13.4,
+    "description": "160 Cal",
+    "image": "pita.jpg"
+  },
+  {
+    "id": 26,
+    "category": "bread-rice",
+    "subcategory": "rice",
+    "name": "Tex-Mex Lazy Tomato Rice",
+    "price": 16.49,
+    "description": "280 Cal",
+    "image": "rice1.jpg"
+  },
+  {
+    "id": 27,
+    "category": "bread-rice",
+    "subcategory": "rice",
+    "name": "Iranian Yellow Rice",
+    "price": 19.49,
+    "description": "180 Cal",
+    "image": "rice2.jpg"
+  },
+  {
+    "id": 28,
+    "category": "bread-rice",
+    "subcategory": "noodle",
+    "name": "Soy Sauce Chow Shrimp Egg Noodles",
+    "price": 17.9,
+    "description": "320 Cal",
+    "image": "chow.jpg"
+  },
+  {
+    "id": 29,
+    "category": "bread-rice",
+    "subcategory": "noodle",
+    "name": "Chile Crisp Sesame Noodles",
+    "price": 17.9,
+    "description": "350 Cal",
+    "image": "sesame.jpg"
+  },
+  {
+    "id": 30,
+    "category": "bread-rice",
+    "subcategory": "potato",
+    "name": "Melting Potatoes",
+    "price": 11.9,
+    "description": "360 Cal",
+    "image": "potato1.jpg"
+  },
+  {
+    "id": 31,
+    "category": "bread-rice",
+    "subcategory": "potato",
+    "name": "French Fries",
+    "price": 11.9,
+    "description": "390 Cal",
+    "image": "potato2.jpg"
+  },
+  {
+    "id": 32,
+    "category": "Soup",
+    "subcategory": "soup",
+    "name": "Chicken Tortilla Soup",
+    "spicy": false,
+    "price": 10.5,
+    "description": "Creamy white cheddar soup, roasted pasilla, tortilla strips, pico de gallo, avocado, cilantro",
+    "image": "chickensoup.jpg"
+  },
+  {
+    "id": 33,
+    "category": "Soup",
+    "subcategory": "soup",
+    "name": "Tomato Bisque",
+    "spicy": false,
+    "price": 12.3,
+    "description": "Tomato, onion, basil, garlic, heavy cream",
+    "image": "tomatosoup.jpg"
+  },
+  {
+    "category": "dessert",
+    "subcategory": "ice cream",
+    "name": "Rocky Road Ice cream",
+    "price": "16.30",
+    "description": "Chocolate ice cream with choco chips"
+  }
+]

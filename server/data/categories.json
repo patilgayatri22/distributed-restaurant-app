@@ -1,0 +1,38 @@
+{
+  "meat": [
+    "beef",
+    "pork",
+    "lamb",
+    "poultry"
+  ],
+  "seafood": [
+    "fish",
+    "shrimp",
+    "crab",
+    "shellfish"
+  ],
+  "vegetable": [
+    "salad",
+    "cooked"
+  ],
+  "bread-rice": [
+    "bread",
+    "rice",
+    "noodle",
+    "potato",
+    "siders"
+  ],
+  "soup": [],
+  "drink": [
+    "alcohol",
+    "wine",
+    "soft drink"
+  ],
+  "dessert": [
+    "cheese",
+    "cookie",
+    "cake",
+    "ice cream",
+    "fruit"
+  ]
+}
